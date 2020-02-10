@@ -2,9 +2,9 @@
   "name": "case-converter",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://robertgarza.com/projects/case-converter/",
+  "homepage": "https://robertgz.github.io/3d-project/case-converter/",
   "dependencies": {
-    "bootstrap": "^4.2.1",
+    "bootstrap": "^4.4.1",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-scripts": "^2.1.2",
