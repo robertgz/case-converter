@@ -2,7 +2,7 @@
   "name": "case-converter",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://robertgz.github.io/3d-project/case-converter/",
+  "homepage": "https://robertgz.github.io/case-converter/",
   "dependencies": {
     "bootstrap": "^4.4.1",
     "react": "^16.7.0",
