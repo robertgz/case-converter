@@ -2,7 +2,7 @@
 
 ![case-converter-screen-capture](https://user-images.githubusercontent.com/1051611/75844884-39845580-5d8c-11ea-9553-74ab9b96ce4c.png)
 
-Converts a line of text to multiple cases. Converted text can be copied to clipboard and pasted elsewhere.
+Converts a line of text to multiple cases. Converted text can be copied to clipboard.
 
 Shows the results of multiple conversion at the same time. Text is converted as it is typed or pasted without needing to click a conversion button.
 
