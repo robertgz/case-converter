@@ -5,8 +5,8 @@
   "homepage": "https://robertgz.github.io/case-converter/",
   "dependencies": {
     "bootstrap": "^4.6.2",
-    "react": "^16.7.0",
-    "react-dom": "^16.7.0",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
     "react-scripts": "^5.0.1",
     "reactstrap": "^7.1.0"
   },
