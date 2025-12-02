@@ -4,17 +4,15 @@
   "private": true,
   "homepage": "https://robertgz.github.io/case-converter/",
   "dependencies": {
-    "bootstrap": "^4.4.1",
-    "react": "^16.7.0",
-    "react-dom": "^16.7.0",
-    "react-scripts": "^2.1.2",
-    "reactstrap": "^7.0.2"
+    "bootstrap": "^4.6.2",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "reactstrap": "^7.1.0"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -24,5 +22,9 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.1.1",
+    "vite": "^7.2.6"
+  }
 }
