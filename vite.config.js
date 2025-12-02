@@ -4,9 +4,11 @@ import react from "@vitejs/plugin-react";
 export default defineConfig(() => {
   return {
     build: {
-      outDir: "build",
+      outDir: "dist",
     },
-    base: "/<REPO>/",
+    server: {
+      base: "/case-converter/",
+    },
     plugins: [react()],
   };
 });
