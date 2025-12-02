@@ -8,7 +8,7 @@
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-scripts": "^5.0.1",
-    "reactstrap": "^7.0.2"
+    "reactstrap": "^7.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
