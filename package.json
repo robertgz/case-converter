@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://robertgz.github.io/case-converter/",
   "dependencies": {
-    "bootstrap": "^4.4.1",
+    "bootstrap": "^4.6.2",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-scripts": "^5.0.1",
